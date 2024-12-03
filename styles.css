@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+header{
+	text-align:center;
+}
+.middle{
+	margin:20px;
+	width:100%;
+}
+.center{
+	text-align: center;
+}
+.right{
+	text-align:right;
+}
